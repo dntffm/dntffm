@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dntffm
 - 👀 I’m interested in Backend Development and Frontend Development
-- 🌱 I’m currently learning VueJS, Laravel and Node.JS
+- 🌱 I’m currently work using VueJS, React, Laravel and NestJS
 - 💞️ I’m looking to collaborate on whatever
 - 📫 How to reach me ? contact on dentamaulan88@gmail.com
 
